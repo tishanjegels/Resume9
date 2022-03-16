@@ -2,6 +2,7 @@ header {
   text-align: center;
   color: #000000;
   padding: 1px;
+  
 }
 
 img{
@@ -19,6 +20,7 @@ body{
   background-size: cover;
 }
 
+/* screen size*/
 @media only screen and (min-width:600px) {
   body{
     background-color: lightblue;
@@ -40,9 +42,9 @@ body{
 
 #sidebar{
   text-align: center;
-  width: 20%;
+
   color: #000000;
-  padding: 1rem;
+ 
 }
 
 nav{
